@@ -25,9 +25,9 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Link</a>
+                    <li class="active"><a href="/AboutMe">About Me</a>
                     </li>
-                    <li><a href="#">Link1</a>
+                    <li><a href="/Resume">Resume</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
