@@ -4,7 +4,7 @@ function change_content(s){
         });
 }
 
-$("#resume-click").click(change_content("Resume/index.html"));
-    // function() {
-        
-    // });
+$("#resume-click").click(
+    function() {
+        change_content("Resume/index.html");
+    });
