@@ -5,7 +5,4 @@ function change_content(s){
         });
 }
 
-$("#resume-click").click(function (e) {
-        change_content("Resume/index.html");
-        console.log("clicked on resume");
-    });
+$("#resume-click").click(change_content("Resume/index.html"));
