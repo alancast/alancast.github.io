@@ -1,5 +1,6 @@
 function change_content(s){
     $.get(s, function (data) {
+            console.log(s);
             $("#content").html(data);
             console.log("hello");
         });
