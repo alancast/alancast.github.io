@@ -3,7 +3,7 @@ function change_content(s, e) {
         $("#content").html(data);
     });
     $(".active").removeClass("active");
-    $(e.target).addClass("active");
+    $(e.target).parent().addClass("active");
 }
 
 $("#resume-click").click(function(e) {
