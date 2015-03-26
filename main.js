@@ -1,5 +1,5 @@
 function change_content(s){
-    $.get("Resume/index.html", function (data) {
+    $.get("test.html", function (data) {
             console.log(s);
             $("#content").html(data);
             console.log("hello");
