@@ -8,6 +8,7 @@
         <itunes:owner>
             <itunes:name>Alex Lancaster</itunes:name>
         </itunes:owner>
+        <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.jpg" />
         <item>
             <title>Team Cajones Talk Podcast</title>
             <link> https://www.spreaker.com/user/8400891/team-cajones-talk-podcast
@@ -24,6 +25,7 @@
             </itunes:summary>
             <itunes:duration>2540</itunes:duration>
             <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
 </rss>
