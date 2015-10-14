@@ -1,9 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>The Scout Team Podcast</title>
-        <link>https://www.spreaker.com/user/8400891</link>
         <description>Just a kid tryin to get by</description>
-        <atom:link href="https://www.spreaker.com/user/8400891/episodes/feed" rel="self" type="application/rss+xml" />
         <language>en</language>
         <copyright>Copyright Alex Lancaster</copyright>
         <itunes:author>Alex Lancaster</itunes:author>
@@ -14,22 +12,18 @@
             <title>Team Cajones Talk Podcast</title>
             <link> https://www.spreaker.com/user/8400891/team-cajones-talk-podcast
             </link>
-            <description>
-                Kyle and I have a civilized discourse about the sporting world in which we live. We try to keep in humorous and enjoyable while still talking about sports. We hit on some things ESPN won't talk about including soccer and hockey! Yes soccer and hockey! Have a listen and let us know what you think at teamcajonespodcast@gmail.com. Episode mistakes: Sean Paul is Jamaican
-            </description>
             <guid isPermaLink="false">https://api.spreaker.com/episode/6838630</guid>
             <pubDate>Wed, 14 Oct 2015 03:47:02 +0000</pubDate>
             <enclosure url="https://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
             <itunes:author>Alex Lancaster</itunes:author>
             <itunes:subtitle>
-                Kyle and I have a civilized discourse about the sporting world in which we live. We try to keep in humorous and enjoyable while still talking about sports. We hit on some things ESPN won't talk about including soccer and hockey! Yes soccer and hockey!...
+                Episode 1
             </itunes:subtitle>
             <itunes:summary>
                 Kyle and I have a civilized discourse about the sporting world in which we live. We try to keep in humorous and enjoyable while still talking about sports. We hit on some things ESPN won't talk about including soccer and hockey! Yes soccer and hockey! Have a listen and let us know what you think at teamcajonespodcast@gmail.com. Episode mistakes: Sean Paul is Jamaican
             </itunes:summary>
             <itunes:duration>2540</itunes:duration>
             <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
-            <itunes:image href="https://d1bm3dmew779uf.cloudfront.net/original/aac14962f7b9bf9ede5f7953fa34b996.jpg" />
         </item>
     </channel>
 </rss>
