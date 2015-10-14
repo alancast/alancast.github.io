@@ -1,22 +1,32 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>The Scout Team Podcast</title>
-        <description>Just a kid tryin to get by</description>
+        <description>
+            Kyle and Alex talking sports
+        </description>
         <language>en</language>
-        <copyright>Copyright Alex Lancaster</copyright>
+        <copyright>Copyright Alex Lancaster 2015</copyright>
+        <lastBuildDate>Wed, 14 Oct 2015 15:57:00 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
+        <itunes:summary>
+            Kyle and Alex talking sports
+        </itunes:summary>
         <itunes:owner>
             <itunes:name>Alex Lancaster</itunes:name>
+            <itunes:email>alanc3939@gmail.com</itunes:email>
         </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.jpg" />
+        <itunes:categorytext="Sports & Recreation">
+        </itunes:category>
         <item>
-            <title>Team Cajones Talk Podcast</title>
-            <link> https://www.spreaker.com/user/8400891/team-cajones-talk-podcast
+            <title>The Scout Team Podcast</title>
+            <link> 
+                http://thescoutteampodcast.me/blog/episode1.mp3
             </link>
-            <guid isPermaLink="false">https://api.spreaker.com/episode/6838630</guid>
             <pubDate>Wed, 14 Oct 2015 03:47:02 +0000</pubDate>
             <enclosure url="https://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
-            <itunes:author>Alex Lancaster</itunes:author>
             <itunes:subtitle>
                 Episode 1
             </itunes:subtitle>
