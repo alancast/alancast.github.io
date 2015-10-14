@@ -1,26 +1,15 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Alex Lancaster</title>
+        <title>The Scout Team Podcast</title>
         <link>https://www.spreaker.com/user/8400891</link>
         <description>Just a kid tryin to get by</description>
         <atom:link href="https://www.spreaker.com/user/8400891/episodes/feed" rel="self" type="application/rss+xml" />
         <language>en</language>
         <copyright>Copyright Alex Lancaster</copyright>
-        <image>
-            <url>
-                https://d1bm3dmew779uf.cloudfront.net/big/466ba05bd669630efc8c048ea423a225.jpg
-            </url>
-            <title>Alex Lancaster</title>
-            <link>https://www.spreaker.com/user/8400891</link>
-        </image>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:owner>
             <itunes:name>Alex Lancaster</itunes:name>
-            <itunes:email>feeds@spreaker.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://d1bm3dmew779uf.cloudfront.net/big/466ba05bd669630efc8c048ea423a225.jpg" />
-        <itunes:subtitle>Just a kid tryin to get by</itunes:subtitle>
-        <itunes:summary>Just a kid tryin to get by</itunes:summary>
         <item>
             <title>Team Cajones Talk Podcast</title>
             <link> https://www.spreaker.com/user/8400891/team-cajones-talk-podcast
