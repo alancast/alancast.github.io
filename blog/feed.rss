@@ -2,12 +2,13 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>The Scout Team Podcast</title>
+        <link>http://thescoutteampodcast.me</link>
         <description>
             Kyle and Alex talking sports
         </description>
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
-        <atom:linkhref="http://thescoutteampodcast.me/blog/feed.rss" rel="self" type="application/rss+xml" />
+        <atom:link href="http://thescoutteampodcast.me/blog/feed.rss" rel="self" type="application/rss+xml" />
         <lastBuildDate>Wed, 14 Oct 2015 15:57:00 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
