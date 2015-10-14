@@ -26,7 +26,7 @@
                 http://thescoutteampodcast.me/blog/episode1.mp3
             </link>
             <pubDate>Wed, 14 Oct 2015 03:47:02 +0000</pubDate>
-            <enclosure url="https://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
+            <enclosure url="http://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 1
             </itunes:subtitle>
