@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/Episodes/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tues, 20 Oct 2015 18:19:00 EST</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 18:48:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -26,14 +26,14 @@
             <link> 
                 http://thescoutteampodcast.me/Episodes/episode1.mp3
             </link>
-            <pubDate>Thur, 15 Oct 2015 03:47:02 +0000</pubDate>
+            <pubDate>Tue, 20 Oct 2015 18:47:02 EST</pubDate>
             <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode1.mp3</guid>
             <enclosure url="http://thescoutteampodcast.me/Episodes/episode1.mp3" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 2
             </itunes:subtitle>
             <itunes:summary>
-                testing
+                testing 2
             </itunes:summary>
             <itunes:duration>2540</itunes:duration>
             <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
