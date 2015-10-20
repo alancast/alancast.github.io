@@ -22,24 +22,6 @@
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
         <item>
-            <title>Episode 3</title>
-            <link> 
-                http://thescoutteampodcast.me/Episodes/episode1.mp3
-            </link>
-            <pubDate>Thur, 15 Oct 2015 04:47:02 +0000</pubDate>
-            <guid isPermaLink="false">https://api.spreaker.com/episode/6838630</guid>
-            <enclosure url="http://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
-            <itunes:subtitle>
-                Episode 3
-            </itunes:subtitle>
-            <itunes:summary>
-                testing 3
-            </itunes:summary>
-            <itunes:duration>2540</itunes:duration>
-            <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-        </item>
-        <item>
             <title>Episode 2</title>
             <link> 
                 http://thescoutteampodcast.me/Episodes/episode1.mp3
