@@ -22,24 +22,6 @@
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
         <item>
-            <title>The Scout Team Podcast</title>
-            <link> 
-                http://thescoutteampodcast.me/Episodes/episode1.mp3
-            </link>
-            <pubDate>Wed, 14 Oct 2015 03:47:02 +0000</pubDate>
-            <guid isPermaLink="false">https://api.spreaker.com/episode/6838630</guid>
-            <enclosure url="http://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
-            <itunes:subtitle>
-                Episode 1
-            </itunes:subtitle>
-            <itunes:summary>
-                Kyle and I have a civilized discourse about the sporting world in which we live. We try to keep it humorous and enjoyable while still talking about sports. We hit on some things ESPN won't talk about including soccer and hockey! Yes soccer and hockey! Have a listen and let us know what you think at teamcajonespodcast@gmail.com. Episode mistakes: Sean Paul is Jamaican
-            </itunes:summary>
-            <itunes:duration>2540</itunes:duration>
-            <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-        </item>
-        <item>
             <title>Episode 2</title>
             <link> 
                 http://thescoutteampodcast.me/Episodes/episode1.mp3
@@ -52,6 +34,24 @@
             </itunes:subtitle>
             <itunes:summary>
                 testing
+            </itunes:summary>
+            <itunes:duration>2540</itunes:duration>
+            <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>The Scout Team Podcast</title>
+            <link> 
+                http://thescoutteampodcast.me/Episodes/episode1.mp3
+            </link>
+            <pubDate>Wed, 14 Oct 2015 03:47:02 +0000</pubDate>
+            <guid isPermaLink="false">https://api.spreaker.com/episode/6838630</guid>
+            <enclosure url="http://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 1
+            </itunes:subtitle>
+            <itunes:summary>
+                Kyle and I have a civilized discourse about the sporting world in which we live. We try to keep it humorous and enjoyable while still talking about sports. We hit on some things ESPN won't talk about including soccer and hockey! Yes soccer and hockey! Have a listen and let us know what you think at teamcajonespodcast@gmail.com. Episode mistakes: Sean Paul is Jamaican
             </itunes:summary>
             <itunes:duration>2540</itunes:duration>
             <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
