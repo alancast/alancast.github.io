@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/Episodes/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Oct 2015 18:48:02 EST</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 23:32:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -24,18 +24,22 @@
         <item>
             <title>Episode 2</title>
             <link> 
-                http://thescoutteampodcast.me/Episodes/episode1.mp3
+                http://thescoutteampodcast.me/Episodes/episode2.m4a
             </link>
-            <pubDate>Tue, 20 Oct 2015 18:47:02 EST</pubDate>
-            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode1.mp3</guid>
-            <enclosure url="http://thescoutteampodcast.me/Episodes/episode1.mp3" length="0" type="audio/mpeg" />
+            <pubDate>Tue, 20 Oct 2015 23:31:02 EST</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode2.m4a</guid>
+            <enclosure url="http://thescoutteampodcast.me/Episodes/episode2.m4a" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 2
             </itunes:subtitle>
             <itunes:summary>
-                testing 4
+                This week we have intro music!!! 
+
+                Also Alex talks about the heartbreaking Michigan loss, listener mail is read, Kyle talks about the must watch sporting event of the weekend and much much more! Also we have a new name "The Scout Team Podcast" so feel free to send us your feedback at thescoutteampodcast@gmail.com! 
+
+                Episode mistakes: None known at this time, please inform us
             </itunes:summary>
-            <itunes:duration>42:20</itunes:duration>
+            <itunes:duration>54:05</itunes:duration>
             <itunes:keywords>football,sports,soccer,wolverines,nittanylions</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
         </item>
