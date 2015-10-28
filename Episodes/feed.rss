@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/Episodes/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Oct 2015 23:32:02 EDT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 00:52:02 EDT</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -21,6 +21,24 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
+        <item>
+            <title>Episode 3</title>
+            <link> 
+                http://thescoutteampodcast.me/Episodes/episode3.mp3
+            </link>
+            <pubDate>Wed, 28 Oct 2015 00:50:02 EDT</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode3.mp3</guid>
+            <enclosure url="http://thescoutteampodcast.me/Episodes/episode3.mp3" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 3
+            </itunes:subtitle>
+            <itunes:summary>
+                What are Kyle and I being for Halloween?! What 2 time Cy young winner emailed us this week and why?! Find out all that and more in this weeks episode of The Scout Team Podcast. If I'm being honest this week wasn't our best episode and we went 15 minutes over, but we already discussed how to be better next week and if you have any ideas or topics you want discussed please tell us at thescoutteampodcast@gmail.com Episode mistakes: We went long
+            </itunes:summary>
+            <itunes:duration>57:43</itunes:duration>
+            <itunes:keywords>football,sports,soccer,hockey,clickbait</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Episode 2</title>
             <link> 
