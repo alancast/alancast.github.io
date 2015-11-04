@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/Episodes/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 28 Oct 2015 11:05:02 EDT</lastBuildDate>
+        <lastBuildDate>Wed, 4 Nov 2015 00:47:02 EDT</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -21,6 +21,29 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
+        <item>
+            <title>Episode 4</title>
+            <link> 
+                http://thescoutteampodcast.me/Episodes/episode4.m4a
+            </link>
+            <pubDate>Wed, 4 Nov 2015 00:47:02 EDT</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode4.m4a</guid>
+            <enclosure url="http://thescoutteampodcast.me/Episodes/episode4.m4a" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 4
+            </itunes:subtitle>
+            <itunes:summary>
+                Our best episode yet!!! We have our own special intro thanks to Matt Farley and MoternMedia.com! This week Kyle and I talk about NFL, NCAA football, soccer, and a whole bunch of other funny stuff. If I could recommend one episode to listen to it'd be this one, so check it out! 
+
+And as always please send us any and all feedback at thescoutteampodcast@gmail.com
+                
+Episode mistakes: 
+-None so far that we know of!
+            </itunes:summary>
+            <itunes:duration>54:29</itunes:duration>
+            <itunes:keywords>football,sports,soccer,fun,NFL</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Episode 3</title>
             <link> 
