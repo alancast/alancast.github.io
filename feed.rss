@@ -8,7 +8,7 @@
         </description>
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
-        <atom:link href="http://thescoutteampodcast.me/Episodes/feed.rss" rel="self" type="application/rss+xml" />
+        <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
         <lastBuildDate>Wed, 4 Nov 2015 00:51:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
@@ -38,7 +38,7 @@
 And as always please send us any and all feedback at thescoutteampodcast@gmail.com
                 
 Episode mistakes: 
--None so far that we know of
+-None so far that we know of!
             </itunes:summary>
             <itunes:duration>54:29</itunes:duration>
             <itunes:keywords>football,sports,soccer,fun,NFL</itunes:keywords>
