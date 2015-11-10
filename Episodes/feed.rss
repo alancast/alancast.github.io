@@ -24,11 +24,11 @@
         <item>
             <title>Episode 4</title>
             <link> 
-                http://thescoutteampodcast.me/Episodes/episode4.m4a
+                http://thescoutteampodcast.me/assets/audios/episode4.m4a
             </link>
             <pubDate>Wed, 4 Nov 2015 00:51:02 EST</pubDate>
-            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode4.m4a</guid>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/Episodes/episode4.m4a" length="0" type="audio/mpeg" />
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode4.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audio/espisode4.m4a" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 4
             </itunes:subtitle>
@@ -47,11 +47,11 @@ Episode mistakes:
         <item>
             <title>Episode 3</title>
             <link> 
-                http://thescoutteampodcast.me/Episodes/episode3.mp3
+                http://thescoutteampodcast.me/assets/audios/episode3.mp3
             </link>
             <pubDate>Wed, 28 Oct 2015 00:50:02 EDT</pubDate>
-            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode3.mp3</guid>
-            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/thescoutteampodcast.me/Episodes/episode3.mp3" length="0" type="audio/mpeg" />
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode3.mp3</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/thescoutteampodcast.me/assets/audios/episode3.mp3" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 3
             </itunes:subtitle>
@@ -72,11 +72,11 @@ Episode mistakes:
         <item>
             <title>Episode 2</title>
             <link> 
-                http://thescoutteampodcast.me/Episodes/episode2.m4a
+                http://thescoutteampodcast.me/assets/audios/episode2.m4a
             </link>
             <pubDate>Tue, 20 Oct 2015 23:31:02 EDT</pubDate>
-            <guid isPermaLink="false">http://thescoutteampodcast.me/Episodes/episode2.m4a</guid>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/Episodes/episode2.m4a" length="0" type="audio/mpeg" />
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode2.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode2.m4a" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 2
             </itunes:subtitle>
@@ -90,11 +90,11 @@ Episode mistakes:
         <item>
             <title>The Scout Team Podcast</title>
             <link> 
-                http://thescoutteampodcast.me/Episodes/episode1.mp3
+                http://thescoutteampodcast.me/assets/audios/episode1.mp3
             </link>
             <pubDate>Wed, 14 Oct 2015 03:47:02 +0000</pubDate>
-            <guid isPermaLink="false">https://api.spreaker.com/episode/6838630</guid>
-            <enclosure url="http://api.spreaker.com/download/episode/6838630/episode1.mp3" length="0" type="audio/mpeg" />
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode1.mp3</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/thescoutteampodcast.me/assets/audios/episode1.mp3" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 1
             </itunes:subtitle>
