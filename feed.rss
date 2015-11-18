@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 11 Nov 2015 13::02 EST</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 12:48:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -22,12 +22,35 @@
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
         <item>
+            <title>Episode 6 - Homecoming Extravaganza</title>
+            <link> 
+                http://thescoutteampodcast.me/assets/audios/episode6.m4a
+            </link>
+            <pubDate>Wed, 18 Nov 2015 12:48:02 EST</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode6.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode6.m4a" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 6 - Homecoming Extravaganza
+            </itunes:subtitle>
+            <itunes:summary>
+                In this week's episode Kyle and I relive the glory days of high school sports, talk over unders for college football, debate who the best player in the NBA is, touch on the NFL, make you smile, and much much more! Check it out!
+
+As always feel free to follow us on twitter at @TheScoutTeamPod and send us any and all feedback (including hate mail!) at thescoutteampodcast@gmail.com! Also please subscribe to us on iTunes or your favorite podcasting app!
+
+Episode mistakes: 
+-None that we know of yet!
+            </itunes:summary>
+            <itunes:duration>60:55</itunes:duration>
+            <itunes:keywords>Football,Sports,Soccer,Fun,NFL</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
             <title>Episode 5 - Doping Scandal</title>
             <link> 
                 http://thescoutteampodcast.me/assets/audios/episode5.m4a
             </link>
             <pubDate>Wed, 11 Nov 2015 13:10:02 EST</pubDate>
-            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode4.m5a</guid>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode5.m4a</guid>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode5.m4a" length="0" type="audio/mpeg" />
             <itunes:subtitle>
                 Episode 5 - Doping Scandal
