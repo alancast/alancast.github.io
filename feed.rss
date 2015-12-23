@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Dec 2015 12:56:02 EST</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 11:48:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -21,6 +21,55 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
+        <item>
+            <title>Merry Christmas</title>
+            <link> 
+                http://thescoutteampodcast.me/assets/audios/episode11.m4a
+            </link>
+            <pubDate>Wed, 23 Dec 2015 11:48:02 EST</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode11.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode11.m4a" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 11
+            </itunes:subtitle>
+            <itunes:summary>
+                In this week's episode Kyle and I discuss if Kyle fell asleep watching the new Star Wars, Jose Mourinho being sacked, ManU and Leicester, athletes singing, NFL playoffs, too many bowls, Abby Wambach, make you smile, and much much more! Check it out!
+
+Bowl Mania Leaders:
+Confidence:
+1. Alex
+2. Ken
+Straight:
+1. PeanutMaster
+2. Tre
+
+Shownote links:
+Justin Tucker singing: https://www.youtube.com/watch?v=T7uRB7W86GM
+
+Rundown:
+-Bowl Mania challenge leaders (2:23)
+-Jose Mourinho firing (6:26)
+-ManU next manager (12:45)
+-Kyle win of the week, Leicester (20:05)
+-Alex win of the week, Justin Tucker (24:36)
+-AFC playoff predictions (26:36)
+-NFL, fix your playoffs (33:47)
+-Too many bowls (36:48)
+-Alex's 5 most confident bowl picks (40:33)
+-Kyle's 5 most confident bowl picks (46:14)
+-Did Kyle fall asleep watching the new Star Wars?! (51:49)
+-Kyle sneak of the week, Abby Wambach (55:03)
+-Alex sneak of the week, Dan Bylsma (1:00:06)
+
+Episode mistakes: 
+-None that we know of yet!
+
+As always feel free to follow us on twitter at @TheScoutTeamPod and send us any and all feedback at thescoutteampodcast@gmail.com! Also please subscribe to us on iTunes or your favorite podcasting app!
+            </itunes:summary>
+            <itunes:duration>66:29</itunes:duration>
+            <itunes:keywords>NHL,Soccer,Sports,Fun,NFL</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Episode 10!!!!!!!!!</title>
             <link> 
