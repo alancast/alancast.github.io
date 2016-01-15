@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 9 Jan 2016 12:56:02 EST</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 12:09:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -21,6 +21,56 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
+        <item>
+            <title>Still Undefeated! (Go Steelers)</title>
+            <link> 
+                http://thescoutteampodcast.me/assets/audios/episode14.m4a
+            </link>
+            <pubDate>Fri, 15 Jan 2016 12:09:02 EST</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode14.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode14.m4a" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 14
+            </itunes:subtitle>
+            <itunes:summary>
+                In this week's episode Kyle and I follow up our perfect 5-0 of predictions last week with another 4-0 coming up! We also recap all the madness from last weekends games, discuss which one of us punched a wall, debate what aged NBA players we could beat 1 on 1, talk about Home Improvement, make you smile, and much much more! Check it out!
+
+Bowl Mania Winners:
+Confidence:
+1. Alex
+2. Kyle
+Straight:
+1. Michael
+2. Alex
+
+Shownote links:
+AC joint: https://en.wikipedia.org/wiki/Acromioclavicular_joint
+
+Rundown:
+-Bowl Mania Winners (2:55)
+-NFL Recaps (non Steelers) (6:48)
+-Steelers game recap (14:37)
+-National championship recap (31:31)
+-Alex Win of the week (37:58)
+-Kyle win of the week (38:13)
+-Listener mail (42:05)
+-Duquesne basketball (48:16)
+-Chiefs vs Patriots prediction (50:02)
+-Packers vs Cardinals prediction (53:25)
+-Seahawks vs Panthers prediction (55:39)
+-Steelers vs Broncos prediction (57:23)
+-Kyle Sneak of the week, NBA 1 on 1s (62:15)
+-Alex Sneak of the week, NCAA practice time (66:21)
+
+Episode mistakes: 
+-None that we know of yet!
+
+As always feel free to follow us on twitter at @TheScoutTeamPod and send us any and all feedback at thescoutteampodcast@gmail.com! Also please subscribe to us on iTunes or your favorite podcasting app!
+            </itunes:summary>
+            <itunes:duration>71:49</itunes:duration>
+            <itunes:keywords>NFL,Football,Fun,Sports,Steelers</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Playoff Predictions! (Go Steelers)</title>
             <link> 
