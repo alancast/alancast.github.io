@@ -9,7 +9,11 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 17 Jan 2016 14:06:02 EST</lastBuildDate>
+
+
+        <lastBuildDate>Fri, 22 Jan 2016 14:06:02 EST</lastBuildDate>
+
+
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -21,6 +25,53 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
+        <item>
+            <title>7-1 ain&apos;t bad!</title>
+            <link> 
+                http://thescoutteampodcast.me/assets/audios/episode15.m4a
+            </link>
+
+
+            <pubDate>Fri, 22 Jan 2016 12:09:02 EST</pubDate>
+
+
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode15.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode15.m4a" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 15
+            </itunes:subtitle>
+            <itunes:summary>
+                In this week&apos;s episode Kyle and I lie about making it short, uncover another crazy scandal, recap NFL games, describe what really happened in that coin flip the NFL doesn&apos;t want you to know about, make NFL predictions, talk recruiting and bugs bunny, make you smile, and much much more! Check it out!
+
+Shownote links:
+Jim Carey Golden Globes: https://www.youtube.com/watch?v=uevbPqes7Wo
+Andy Reid steak article: http://www.theonion.com/article/andy-reid-furious-self-poor-clock-management-end-7-52215
+Tennis Scandal: http://www.buzzfeed.com/heidiblake/the-tennis-racket#.ouj8QWR6Z
+
+Rundown:
+-Chiefs Patriots recap (4:26)
+-Packers Cardinals recap  (13:00)
+-Coin flip theory (19:19)
+-Seahawks Panthers recap (21:17)
+-Steelers Broncos recap (24:57)
+-Kyle Win of the week (28:42)
+-Alex win of the week (32:48)
+-Listener mail (33:57)
+-Pens update (35:32)
+-Broncos vs Patriots prediction (37:24)
+-Panthers vs Cardinals prediction (40:43)
+-Kyle Sneak of the week, crootin&apos; (43:55)
+-Alex Sneak of the week, tennis scandal (50:12)
+
+Episode mistakes: 
+-None that we know of yet!
+
+As always feel free to follow us on twitter at @TheScoutTeamPod and send us any and all feedback at thescoutteampodcast@gmail.com! Also please subscribe to us on iTunes or your favorite podcasting app!
+            </itunes:summary>
+            <itunes:duration>61:34</itunes:duration>
+            <itunes:keywords>NFL,Football,Fun,Sports,Smiles</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Still Undefeated! (Go Steelers)</title>
             <link> 
