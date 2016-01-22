@@ -9,11 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-
-
-        <lastBuildDate>Fri, 22 Jan 2016 14:06:02 EST</lastBuildDate>
-
-
+        <lastBuildDate>Fri, 22 Jan 2016 12:09:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -30,11 +26,7 @@
             <link> 
                 http://thescoutteampodcast.me/assets/audios/episode15.m4a
             </link>
-
-
             <pubDate>Fri, 22 Jan 2016 12:09:02 EST</pubDate>
-
-
             <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode15.m4a</guid>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode15.m4a" length="0" type="audio/mpeg" />
             <itunes:subtitle>
