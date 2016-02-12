@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Feb 2016 13:48:02 EST</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 13:51:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -22,11 +22,11 @@
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
         <item>
-            <title>Kyle&apos;s back!!!</title>
+            <title>The Story</title>
             <link> 
                 http://thescoutteampodcast.me/assets/audios/episode18.m4a
             </link>
-            <pubDate>Fri, 12 Feb 2016 13:48:02 EST</pubDate>
+            <pubDate>Fri, 12 Feb 2016 13:51:02 EST</pubDate>
             <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode18.m4a</guid>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode18.m4a" length="0" type="audio/mpeg" />
             <itunes:subtitle>
