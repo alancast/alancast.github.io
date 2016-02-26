@@ -9,7 +9,7 @@
         <language>en</language>
         <copyright>Copyright Alex Lancaster 2015</copyright>
         <atom:link href="http://thescoutteampodcast.me/feed.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Feb 2016 13:51:02 EST</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 12:03:02 EST</lastBuildDate>
         <itunes:author>Alex Lancaster</itunes:author>
         <itunes:summary>
             Kyle and Alex talking sports
@@ -21,6 +21,51 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://thescoutteampodcast.me/assets/images/ScoutTeamPodcast.png" />
         <itunes:category text="Sports &amp; Recreation" />
+        <item>
+            <title>Penultimate!</title>
+            <link> 
+                http://thescoutteampodcast.me/assets/audios/episode19.m4a
+            </link>
+            <pubDate>Fri, 26 Feb 2016 12:03:02 EST</pubDate>
+            <guid isPermaLink="false">http://thescoutteampodcast.me/assets/audios/episode19.m4a</guid>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/thescoutteampodcast.me/assets/audios/episode19.m4a" length="0" type="audio/mpeg" />
+            <itunes:subtitle>
+                Episode 19
+            </itunes:subtitle>
+            <itunes:summary>
+                In this week&apos;s penultimate episode (!!!) Alex shares his viewpoints on the infamous parmesan cheese raid of 2012, you won&apos;t wanna miss his newest scandal sneak!!! Of course Kyle and Alex also talk about sports such as football, hockey, and basketball. Lastly, as always, we&apos;ll make you smile, and much much more! Check it out!
+
+Shownote links:
+MNUFC stadium pictures: http://imgur.com/gallery/qcnPL/new
+Parmesan cheese scandal: http://www.bloomberg.com/news/articles/2016-02-16/the-parmesan-cheese-you-sprinkle-on-your-penne-could-be-wood
+
+Rundown:
+-A legend retires (6:50)
+-Graham Glasgow (combine prediction) (9:50)
+-Willie Henry (combine prediction) (13:30)
+-Christian Hackenberg (combine prediction) (15:40)
+-Carl Nassib (combine prediction) (19:00)
+-Jordan Lucas (combine prediction) (20:55)
+-Anthony Zettel (combine prediction) (22:15)
+-Austin Johnson (combine prediction) (25:18)
+-Alex win of the week (27:33)
+-Kyle win of the week (33:14)
+-Pens Recap (34:47)
+-Washington Captials historic season (36:05)
+-NBA All Star weekend recap (42:15)
+-NCAAB Final Four (51:40)
+-Alex Sneak of the Week (56:19)
+-Kyle Sneak of the Week (60:09)
+
+Episode mistakes: 
+--We don&apos;t even fix these anymore
+
+As always feel free to follow us on twitter at @TheScoutTeamPod and send us any and all feedback at thescoutteampodcast@gmail.com! Also please subscribe to us on iTunes or your favorite podcasting app!
+            </itunes:summary>
+            <itunes:duration>76:46</itunes:duration>
+            <itunes:keywords>Fun,Sports,Scandals,Football,Hockey</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>The Story</title>
             <link> 
